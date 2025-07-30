@@ -1,8 +1,9 @@
-import calc from "./calc";
+import Calc from "./calc";
 function App() {
   return (
-    <calc />
+    <Calc />
   );
 }
 
 export default App
+ 
