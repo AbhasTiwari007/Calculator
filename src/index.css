@@ -36,7 +36,7 @@ input{
     border:#5D6759 solid;
  box-shadow: 4px 4px #5D6759;
 }
-#C,#brac,#percent,#divi,#X,#minus,#plus,#equal{
+#C,#brac,#br,#divi,#X,#sub,#add,#equal{
     background-color: #4E574B;
     color: #F9FBFB;
 }

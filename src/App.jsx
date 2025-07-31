@@ -1,4 +1,4 @@
-import Calc from "./calc";
+import Calc from "./Calc.jsx";
 function App() {
   return (
     <Calc />
